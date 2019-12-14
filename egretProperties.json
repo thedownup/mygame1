@@ -1,0 +1,31 @@
+{
+  "engineVersion": "5.2.31",
+  "compilerVersion": "5.2.31",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "mygame1",
+      "packagename": "com.companyname"
+    }
+  }
+}
